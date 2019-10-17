@@ -21,12 +21,17 @@
             noData: '找不到结果',//搜索不到结果时显示
             paths: 'auto',//自动
             placeholder: '搜索',//搜索框提示
-        }
+      },
+       plugins: [
+        EditOnGithubPlugin.create(docBase, docEditBase, title)
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+
 
 
 
