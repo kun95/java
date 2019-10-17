@@ -5,6 +5,6 @@
 [GitHub](https://github.com/kun95/java)
 [Get Started](README.md)
 
-
+![](cover.jpg)
 
 ![color](#f0f0f0)
