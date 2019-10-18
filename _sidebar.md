@@ -1,12 +1,7 @@
 - [第1章 概述](chapter1/)
-  - [001](chapter1/001.md)
-  - [002](chapter1/002.md)
-  - [003](chapter1/003.md)
-  - [004](chapter1/004.md)
-  - [005](chapter1/005.md)
-
 * [第2章 JAVA环境](chapter2/)
 * [第3章 基本语法](chapter3/)
+	- [3.1 分支和判断](chapter3/001.md)
 * [第4章 类和对象](chapter4/)
 * [第5章 封装、继承、多态](chapter5/)
 * [第6章 异常处理](chapter6/)

@@ -28,11 +28,12 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
 
-<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-<script src="//unpkg.com/prismjs/components/prism-java.js"></script>
 
 <script>
   const gitalk = new Gitalk({
@@ -41,8 +42,8 @@
     repo: 'java',
     owner: 'kun95',
     admin: 'kun95',
-    title: ''+new Date(),
-    // facebook-like distraction free mode
+    title: "comment",
+    id: location.href,
     distractionFreeMode: false
   })
 </script>
