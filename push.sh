@@ -15,3 +15,4 @@ git push -u gitee master
 echo "-------5. 推送到gitee完毕-------"
 echo "https://kun95.github.io/java/"
 echo "https://kun95.gitee.io/java/"
+echo "https://gitee.com/kun95/java/pages"
